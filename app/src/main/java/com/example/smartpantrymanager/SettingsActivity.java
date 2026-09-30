@@ -1,3 +1,4 @@
+//SettingsActivity with toggle option
 package com.example.smartpantrymanager;
 
 import android.content.SharedPreferences;
