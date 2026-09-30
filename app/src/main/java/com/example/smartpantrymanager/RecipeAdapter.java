@@ -1,3 +1,4 @@
+// RecipeAdapter layout
 package com.example.smartpantrymanager;
 
 import android.content.Intent;
