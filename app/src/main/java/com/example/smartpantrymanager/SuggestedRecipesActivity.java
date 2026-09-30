@@ -1,3 +1,4 @@
+//SuggestedRecipesActivity with strict matching logic
 package com.example.smartpantrymanager;
 
 import android.os.Bundle;
