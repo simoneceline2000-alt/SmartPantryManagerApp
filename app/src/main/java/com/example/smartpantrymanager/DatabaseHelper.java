@@ -1,5 +1,4 @@
 //Commit: Implemented SQLite CRUD
-// Commit marker for GitHub test
 package com.example.smartpantrymanager;
 
 import android.content.ContentValues;

@@ -1,3 +1,4 @@
+//PantryAdapter.java
 package com.example.smartpantrymanager;
 
 import android.content.Intent;
