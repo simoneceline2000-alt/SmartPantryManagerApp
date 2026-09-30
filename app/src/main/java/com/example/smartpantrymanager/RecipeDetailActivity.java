@@ -1,3 +1,4 @@
+//Implemented RecipeDetailActivity with layout binding
 package com.example.smartpantrymanager;
 
 import android.os.Bundle;
@@ -16,7 +17,7 @@ public class RecipeDetailActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_recipe_detail);
 
-        // ✅ Match IDs with XML
+        // Match IDs with XML
         recipeName = findViewById(R.id.detailName);
         recipeIngredients = findViewById(R.id.detailIngredients);
         recipeSteps = findViewById(R.id.detailSteps);
